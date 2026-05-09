@@ -5,7 +5,7 @@ Collaboration with Dr Louise Sime - British Antarctic Surey, Cambridge (UK).
 
 
 # Slides
-Slide on the topic provided (talk given at internal PhD seminar in Leeds).
+An overview of the project, from a talk given at internal PhD seminar in Leeds.
 
 ============================================================================
 
