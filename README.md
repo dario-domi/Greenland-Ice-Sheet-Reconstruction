@@ -5,12 +5,7 @@ Collaboration with Dr Louise Sime - British Antarctic Surey, Cambridge (UK).
 
 
 # Slides
-An overview of the project, from a talk given at internal PhD seminar in Leeds.
-
-============================================================================
-
-Also provided a picture (Posterior_Density_3x3.pdf) comparing prior and posterior densities for the data-compatible morphologies.
-
+An overview of the project, from a talk given at Met Éireann in March 2026.
 
 # Code
 A detailed description of each piece of code is given within the latter. Here a summary:
